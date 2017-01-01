@@ -1,16 +1,5 @@
-/* COURSE      : COP 4534
- * Section     : U01
- * Semester    : Fall 2016
- * Instructor  : Alexander Pelin
- * Authors     : 
- * CARLOS SANCHEZ VILA PID: 5446178 && DANIEL GONZALEZ PID: 4926400
- * Assignment #: 4 Huffman Codes
- * Description : The following program provides a function to encrypt and decrypt
- * files using the Huffman codes approach. 
- *
- *  I certify that the work ours and we did not consult with
- *  anyone.
- *                                  
+/*
+ * Authors: CARLOS SANCHEZ VILA  && DANIEL GONZALEZ 
  */
 public class Data{
 	
